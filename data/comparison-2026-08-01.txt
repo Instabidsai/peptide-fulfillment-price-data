@@ -1,0 +1,35 @@
+SKU                               size    OURS    Pepify  Pepliful     Rapid   verdict
+--------------------------------------------------------------------------------------
+Admax                              5mg     $30       $42         -         -   WIN  (cheapest)
+BPC 157 / TB500 Blend         10/10 mg     $35       $29       $18       $18   lose by $17
+BPC+TB+GHK (Glow Blend)           70mg     $40       $72         -         -   WIN  (cheapest)
+BPC-157                          10 mg     $18       $29       $18       $18   tie
+BPC-157                          20 mg     $26         -       $35       $35   WIN  (cheapest)
+CJC (no DAC)                      5 mg     $20       $26       $14       $25   lose by $6
+CJC (no DAC)/Ipamorelin       5 mg/5 mg  $24.50       $26       $14       $25   lose by $10.50
+CJC 1295 No DAC                  10 mg     $32       $55         -       $19   lose by $13
+Epithalon                        40 mg     $35       $52         -         -   WIN  (cheapest)
+Epithalon                        10 mg     $12       $18       $12       $12   tie
+GHK-CU                          100 mg     $20       $23         -         -   WIN  (cheapest)
+GHK-Cu                           50 mg     $11       $13       $11       $11   tie
+GLOW                             70 mg     $35         -       $35       $35   tie
+Ipamorelin                        5 mg     $12         -       $12       $12   tie
+KLOW                             80 mg     $37         -       $42       $42   WIN  (cheapest)
+KPV                              10 mg     $19         -       $21         -   WIN  (cheapest)
+MOTS-C                           40 mg     $32       $78         -         -   WIN  (cheapest)
+Melanotan 2                      10 mg     $18         -       $18       $18   tie
+NAD+                           1000 mg  $25.50       $38         -         -   WIN  (cheapest)
+NAD+ (Nasal)                   1000 mg  $37.50       $38         -         -   WIN  (cheapest)
+Oxytocin                           5mg     $17       $15       $16         -   lose by $2
+Oxytocin                         10 mg     $21       $31         -         -   WIN  (cheapest)
+PT-141                           10 mg     $20         -       $18       $18   lose by $2
+PT-141 (Nasal)                   10 mg     $32         -       $18       $18   lose by $14
+Selank                           10 mg     $20       $25         -         -   WIN  (cheapest)
+Semax                            10 mg     $20       $23         -         -   WIN  (cheapest)
+Tesamorelin                      10 mg     $28       $68       $29       $29   WIN  (cheapest)
+Tesamorelin                      20 mg     $42      $130         -         -   WIN  (cheapest)
+Thymosin Alpha (Nasal)           10 mg     $40         -       $24       $24   lose by $16
+Tirzepatide                      20 mg     $32       $38         -         -   WIN  (cheapest)
+Tirzepatide                      30 mg     $48       $53       $55       $55   WIN  (cheapest)
+--------------------------------------------------------------------------------------
+We are cheapest on 17 matched SKUs, undercut on 8.
