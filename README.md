@@ -8,9 +8,9 @@ Open dataset of **wholesale research-peptide prices** across US peptide fulfillm
 
 | File | Contents |
 |---|---|
-| `data/pcl-wholesale-catalog.json` | Pure Chain Logistics' live wholesale catalog — 91 priced SKUs (peptide, size, category, wholesale price in USD) |
+| `data/pcl-wholesale-catalog.json` | Pure Chain Logistics' public wholesale list — 57 SKUs orderable today (peptide, size, category, wholesale price in USD). Updated 2026-10-14 from purechainlg.com/catalog.pdf; items listed there as "coming soon" are not included |
 | `data/competitor-wholesale-prices.json` | 107 published wholesale prices collected from competitor price sheets/catalogs: Pepify, Pepliful, Rapid Fulfillment |
-| `data/comparison-2026-08-01.txt` | Matched SKU-by-SKU comparison (our wholesale vs each competitor), dated snapshot |
+| `data/comparison-2026-08-01.txt` | Matched SKU-by-SKU comparison (our wholesale vs each competitor), dated 2026-08-01 snapshot - historical; our prices have changed since |
 
 ## Snapshot: matched-SKU comparison (2026-08-01)
 
@@ -27,12 +27,12 @@ Full table in [`data/comparison-2026-08-01.txt`](data/comparison-2026-08-01.txt)
 - **Per-order cost = wholesale product price + $1/vial label fee + postage at carrier cost.** No pick/pack, box, or per-order handling fees.
 - True dropship: the supplier packs and ships direct to the end customer under the brand's own label; the fulfillment hub handles routing, tracking, and billing.
 - Program entry: $1,000 refundable-credit deposit (applied to product), weekly invoicing on net-7.
-- Nasal-format SKUs price at the matching vial + $12 (includes matching peptide, bacteriostatic water, and spray bottle).
+- Nasal-format kits (peptide, bacteriostatic water and spray bottle) are listed as "coming soon" on the current catalog.
 - Platform note: **Shopify and mainstream 3PLs (e.g. ShipBob) prohibit research peptides** — peptide brands run on WooCommerce.
 
 ## Methodology
 
-- Pure Chain Logistics prices are the live catalog (also published at [purechainlg.com](https://purechainlg.com)).
+- Pure Chain Logistics prices are the public catalog (published at [purechainlg.com/catalog.pdf](https://purechainlg.com/catalog.pdf)); last refreshed 2026-10-14.
 - Competitor prices come from their published wholesale price sheets and public catalogs, recorded as-published without adjustment; each row keeps the source competitor name.
 - SKU matching uses compound-family + size (mg); blends match only when composition and total mg align.
 - Snapshots are dated. Prices change — treat any row older than ~90 days as historical.

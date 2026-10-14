@@ -1,91 +1,344 @@
-[{"peptide_name":"5-Amino 1MQ","size_mg":50.00,"category":"peptide","wholesale_price":23.00}, 
- {"peptide_name":"Admax","size_mg":5.00,"category":"peptide","wholesale_price":30.00}, 
- {"peptide_name":"AOD 9604","size_mg":10.00,"category":"peptide","wholesale_price":33.00}, 
- {"peptide_name":"AOD 9604","size_mg":5.00,"category":"peptide","wholesale_price":22.00}, 
- {"peptide_name":"ARA-290","size_mg":10.00,"category":"peptide","wholesale_price":20.00}, 
- {"peptide_name":"Bacteriostatic Water","size_mg":null,"category":"ancillary","wholesale_price":5.00}, 
- {"peptide_name":"Bacteriostatic Water","size_mg":null,"category":"peptide","wholesale_price":6.00}, 
- {"peptide_name":"Bacteriostatic Water","size_mg":null,"category":"peptide","wholesale_price":4.00}, 
- {"peptide_name":"BPC 157 / TB500 Blend","size_mg":5.00,"category":"peptide","wholesale_price":25.00}, 
- {"peptide_name":"BPC 157 / TB500 Blend","size_mg":10.00,"category":"peptide","wholesale_price":35.00}, 
- {"peptide_name":"BPC-157","size_mg":20.00,"category":"peptide","wholesale_price":26.00}, 
- {"peptide_name":"BPC-157","size_mg":10.00,"category":"peptide","wholesale_price":18.00}, 
- {"peptide_name":"BPC+TB+GHK (Glow Blend)","size_mg":70.00,"category":"peptide","wholesale_price":40.00}, 
- {"peptide_name":"Bronchogen","size_mg":20.00,"category":"peptide","wholesale_price":30.00}, 
- {"peptide_name":"Cagriniltide","size_mg":10.00,"category":"peptide","wholesale_price":27.00}, 
- {"peptide_name":"Cartalax","size_mg":20.00,"category":"peptide","wholesale_price":22.00}, 
- {"peptide_name":"CJC (no DAC)","size_mg":5.00,"category":"peptide","wholesale_price":20.00}, 
- {"peptide_name":"CJC (no DAC)/Ipamorelin","size_mg":5.00,"category":"peptide","wholesale_price":24.50}, 
- {"peptide_name":"CJC 1295 No DAC","size_mg":10.00,"category":"peptide","wholesale_price":32.00}, 
- {"peptide_name":"Cortagen","size_mg":20.00,"category":"peptide","wholesale_price":24.00}, 
- {"peptide_name":"DSIP","size_mg":15.00,"category":"peptide","wholesale_price":26.00}, 
- {"peptide_name":"DSIP","size_mg":10.00,"category":"peptide","wholesale_price":21.50}, 
- {"peptide_name":"Epithalon","size_mg":50.00,"category":"peptide","wholesale_price":40.00}, 
- {"peptide_name":"Epithalon","size_mg":40.00,"category":"peptide","wholesale_price":35.00}, 
- {"peptide_name":"Epithalon","size_mg":10.00,"category":"peptide","wholesale_price":12.00}, 
- {"peptide_name":"FOXO4","size_mg":10.00,"category":"peptide","wholesale_price":48.00}, 
- {"peptide_name":"GGG Tri-Agonist (Retatrutide)","size_mg":30.00,"category":"peptide","wholesale_price":45.00}, 
- {"peptide_name":"GGG Tri-Agonist (Retatrutide)","size_mg":10.00,"category":"peptide","wholesale_price":25.00}, 
- {"peptide_name":"GHK-Cu","size_mg":50.00,"category":"peptide","wholesale_price":11.00}, 
- {"peptide_name":"GHK-CU","size_mg":100.00,"category":"peptide","wholesale_price":20.00}, 
- {"peptide_name":"GLOW","size_mg":70.00,"category":"peptide","wholesale_price":35.00}, 
- {"peptide_name":"GLP2-T","size_mg":20.00,"category":"peptide","wholesale_price":24.50}, 
- {"peptide_name":"GLP2-T","size_mg":10.00,"category":"peptide","wholesale_price":21.50}, 
- {"peptide_name":"GLP2-T","size_mg":30.00,"category":"peptide","wholesale_price":34.50}, 
- {"peptide_name":"GLP2-T","size_mg":60.00,"category":"peptide","wholesale_price":59.00}, 
- {"peptide_name":"GLP3-R","size_mg":10.00,"category":"peptide","wholesale_price":23.00}, 
- {"peptide_name":"GLP3-R","size_mg":20.00,"category":"peptide","wholesale_price":35.00}, 
- {"peptide_name":"GLP3-R","size_mg":60.00,"category":"peptide","wholesale_price":65.00}, 
- {"peptide_name":"GLP3-R","size_mg":30.00,"category":"peptide","wholesale_price":45.00}, 
- {"peptide_name":"Glutathione","size_mg":1500.00,"category":"peptide","wholesale_price":24.00}, 
- {"peptide_name":"HCG","size_mg":null,"category":"peptide","wholesale_price":31.00}, 
- {"peptide_name":"HGH 191aa","size_mg":null,"category":"peptide","wholesale_price":32.00}, 
- {"peptide_name":"Humanin","size_mg":10.00,"category":"peptide","wholesale_price":32.00}, 
- {"peptide_name":"IGF1-LR3","size_mg":1.00,"category":"peptide","wholesale_price":40.00}, 
- {"peptide_name":"Ipamorelin","size_mg":10.00,"category":"peptide","wholesale_price":22.00}, 
- {"peptide_name":"Ipamorelin","size_mg":5.00,"category":"peptide","wholesale_price":12.00}, 
- {"peptide_name":"Kisspeptin","size_mg":10.00,"category":"peptide","wholesale_price":22.50}, 
- {"peptide_name":"Kisspeptin (Nasal)","size_mg":10.00,"category":"nasal","wholesale_price":34.50}, 
- {"peptide_name":"KLOW","size_mg":80.00,"category":"peptide","wholesale_price":37.00}, 
- {"peptide_name":"KPV","size_mg":10.00,"category":"peptide","wholesale_price":19.00}, 
- {"peptide_name":"LL-37","size_mg":5.00,"category":"peptide","wholesale_price":24.50}, 
- {"peptide_name":"Mazditude","size_mg":5.00,"category":"peptide","wholesale_price":22.00}, 
- {"peptide_name":"Melanotan 2","size_mg":10.00,"category":"peptide","wholesale_price":18.00}, 
- {"peptide_name":"MOTS-C","size_mg":40.00,"category":"peptide","wholesale_price":32.00}, 
- {"peptide_name":"NAD+","size_mg":1000.00,"category":"peptide","wholesale_price":25.50}, 
- {"peptide_name":"NAD+ (Nasal)","size_mg":1000.00,"category":"nasal","wholesale_price":37.50}, 
- {"peptide_name":"Oxytocin","size_mg":5.00,"category":"peptide","wholesale_price":17.00}, 
- {"peptide_name":"Oxytocin","size_mg":10.00,"category":"peptide","wholesale_price":21.00}, 
- {"peptide_name":"Oxytocin (Nasal)","size_mg":2.00,"category":"nasal","wholesale_price":15.00}, 
- {"peptide_name":"P21","size_mg":5.00,"category":"peptide","wholesale_price":18.00}, 
- {"peptide_name":"PE 22-28","size_mg":10.00,"category":"peptide","wholesale_price":21.00}, 
- {"peptide_name":"Pinealon (Nasal)","size_mg":20.00,"category":"nasal","wholesale_price":30.00}, 
- {"peptide_name":"PNC 27","size_mg":10.00,"category":"peptide","wholesale_price":30.00}, 
- {"peptide_name":"Prostamax","size_mg":20.00,"category":"peptide","wholesale_price":18.00}, 
- {"peptide_name":"PT-141","size_mg":10.00,"category":"peptide","wholesale_price":20.00}, 
- {"peptide_name":"PT-141 (Nasal)","size_mg":10.00,"category":"nasal","wholesale_price":32.00}, 
- {"peptide_name":"Selank","size_mg":10.00,"category":"peptide","wholesale_price":20.00}, 
- {"peptide_name":"Selank N-Acetyl","size_mg":30.00,"category":"peptide","wholesale_price":25.00}, 
- {"peptide_name":"Selank N-Acetyl (Nasal)","size_mg":30.00,"category":"nasal","wholesale_price":37.00}, 
- {"peptide_name":"Selank/Semax","size_mg":10.00,"category":"peptide","wholesale_price":20.00}, 
- {"peptide_name":"Semax","size_mg":10.00,"category":"peptide","wholesale_price":20.00}, 
- {"peptide_name":"Semax N-Acetyl","size_mg":30.00,"category":"peptide","wholesale_price":25.00}, 
- {"peptide_name":"Semax N-Acetyl (Nasal)","size_mg":30.00,"category":"nasal","wholesale_price":37.00}, 
- {"peptide_name":"Sermorelin","size_mg":10.00,"category":"peptide","wholesale_price":27.00}, 
- {"peptide_name":"Snap 8","size_mg":10.00,"category":"peptide","wholesale_price":11.00}, 
- {"peptide_name":"SS-31","size_mg":50.00,"category":"peptide","wholesale_price":39.00}, 
- {"peptide_name":"TA-1","size_mg":10.00,"category":"peptide","wholesale_price":30.00}, 
- {"peptide_name":"TB500","size_mg":20.00,"category":"peptide","wholesale_price":40.00}, 
- {"peptide_name":"TB500","size_mg":10.00,"category":"peptide","wholesale_price":27.00}, 
- {"peptide_name":"Tesamorelin","size_mg":10.00,"category":"peptide","wholesale_price":28.00}, 
- {"peptide_name":"Tesamorelin","size_mg":20.00,"category":"peptide","wholesale_price":42.00}, 
- {"peptide_name":"Tesamorelin/Ipamorelin Blend","size_mg":11.00,"category":"peptide","wholesale_price":31.50}, 
- {"peptide_name":"Thy Alpha 1","size_mg":10.00,"category":"peptide","wholesale_price":28.00}, 
- {"peptide_name":"Thymalin","size_mg":10.00,"category":"peptide","wholesale_price":14.00}, 
- {"peptide_name":"Thymosin Alpha (Nasal)","size_mg":10.00,"category":"nasal","wholesale_price":40.00}, 
- {"peptide_name":"Tirzepatide","size_mg":20.00,"category":"peptide","wholesale_price":32.00}, 
- {"peptide_name":"Tirzepatide","size_mg":30.00,"category":"peptide","wholesale_price":48.00}, 
- {"peptide_name":"VIP","size_mg":10.00,"category":"peptide","wholesale_price":30.00}, 
- {"peptide_name":"Wolverine Stack","size_mg":10.00,"category":"peptide","wholesale_price":25.00}, 
- {"peptide_name":"Wolverine Stack","size_mg":5.00,"category":"peptide","wholesale_price":15.00}, 
- {"peptide_name":"Wolverine Stack","size_mg":null,"category":"peptide","wholesale_price":20.00}]
+[
+  {
+    "peptide_name": "GLP2-T",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 24.5
+  },
+  {
+    "peptide_name": "GLP2-T",
+    "size_mg": 20.0,
+    "category": "peptide",
+    "wholesale_price": 33.5
+  },
+  {
+    "peptide_name": "GLP2-T",
+    "size_mg": 30.0,
+    "category": "peptide",
+    "wholesale_price": 43.5
+  },
+  {
+    "peptide_name": "GLP2-T",
+    "size_mg": 60.0,
+    "category": "peptide",
+    "wholesale_price": 62.0
+  },
+  {
+    "peptide_name": "GLP3-R",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 27.0
+  },
+  {
+    "peptide_name": "GLP3-R",
+    "size_mg": 20.0,
+    "category": "peptide",
+    "wholesale_price": 35.0
+  },
+  {
+    "peptide_name": "GLP3-R",
+    "size_mg": 30.0,
+    "category": "peptide",
+    "wholesale_price": 45.0
+  },
+  {
+    "peptide_name": "GLP3-R",
+    "size_mg": 60.0,
+    "category": "peptide",
+    "wholesale_price": 65.0
+  },
+  {
+    "peptide_name": "Cagrilintide",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 27.0
+  },
+  {
+    "peptide_name": "5-Amino 1MQ",
+    "size_mg": 50.0,
+    "category": "peptide",
+    "wholesale_price": 23.0
+  },
+  {
+    "peptide_name": "MOTS-C",
+    "size_mg": 40.0,
+    "category": "peptide",
+    "wholesale_price": 32.0
+  },
+  {
+    "peptide_name": "BPC-157",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 21.0
+  },
+  {
+    "peptide_name": "BPC-157",
+    "size_mg": 20.0,
+    "category": "peptide",
+    "wholesale_price": 28.0
+  },
+  {
+    "peptide_name": "TB500",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 28.0
+  },
+  {
+    "peptide_name": "TB500",
+    "size_mg": 20.0,
+    "category": "peptide",
+    "wholesale_price": 40.0
+  },
+  {
+    "peptide_name": "Wolverine Stack",
+    "size_mg": 5.0,
+    "category": "peptide",
+    "wholesale_price": 22.0
+  },
+  {
+    "peptide_name": "Wolverine Stack",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 32.0
+  },
+  {
+    "peptide_name": "GLOW",
+    "size_mg": 70.0,
+    "category": "peptide",
+    "wholesale_price": 35.0
+  },
+  {
+    "peptide_name": "KLOW",
+    "size_mg": 80.0,
+    "category": "peptide",
+    "wholesale_price": 37.0
+  },
+  {
+    "peptide_name": "KPV",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 19.0
+  },
+  {
+    "peptide_name": "LL-37",
+    "size_mg": 5.0,
+    "category": "peptide",
+    "wholesale_price": 24.5
+  },
+  {
+    "peptide_name": "Thymosin Alpha-1",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 28.0
+  },
+  {
+    "peptide_name": "CJC-1295 (No DAC)",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 32.0
+  },
+  {
+    "peptide_name": "CJC (No DAC) / Ipamorelin",
+    "size_mg": 5.0,
+    "category": "peptide",
+    "wholesale_price": 24.5
+  },
+  {
+    "peptide_name": "Ipamorelin",
+    "size_mg": 5.0,
+    "category": "peptide",
+    "wholesale_price": 16.0
+  },
+  {
+    "peptide_name": "Ipamorelin",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 22.0
+  },
+  {
+    "peptide_name": "Sermorelin",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 27.0
+  },
+  {
+    "peptide_name": "Tesamorelin",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 28.0
+  },
+  {
+    "peptide_name": "Tesamorelin",
+    "size_mg": 20.0,
+    "category": "peptide",
+    "wholesale_price": 42.0
+  },
+  {
+    "peptide_name": "Tesamorelin/Ipamorelin Blend",
+    "size_mg": 11.0,
+    "category": "peptide",
+    "wholesale_price": 33.0
+  },
+  {
+    "peptide_name": "IGF1-LR3",
+    "size_mg": 1.0,
+    "category": "peptide",
+    "wholesale_price": 40.0
+  },
+  {
+    "peptide_name": "HCG",
+    "size_mg": null,
+    "category": "peptide",
+    "wholesale_price": 31.0
+  },
+  {
+    "peptide_name": "Semax",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 20.0
+  },
+  {
+    "peptide_name": "Semax N-Acetyl",
+    "size_mg": 30.0,
+    "category": "peptide",
+    "wholesale_price": 28.0
+  },
+  {
+    "peptide_name": "Selank",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 20.0
+  },
+  {
+    "peptide_name": "Selank N-Acetyl",
+    "size_mg": 30.0,
+    "category": "peptide",
+    "wholesale_price": 28.0
+  },
+  {
+    "peptide_name": "DSIP",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 21.5
+  },
+  {
+    "peptide_name": "DSIP",
+    "size_mg": 15.0,
+    "category": "peptide",
+    "wholesale_price": 26.0
+  },
+  {
+    "peptide_name": "Epithalon",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 12.0
+  },
+  {
+    "peptide_name": "Epithalon",
+    "size_mg": 40.0,
+    "category": "peptide",
+    "wholesale_price": 35.0
+  },
+  {
+    "peptide_name": "Epithalon",
+    "size_mg": 50.0,
+    "category": "peptide",
+    "wholesale_price": 40.0
+  },
+  {
+    "peptide_name": "FOXO4",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 48.0
+  },
+  {
+    "peptide_name": "NAD+",
+    "size_mg": 1000.0,
+    "category": "peptide",
+    "wholesale_price": 25.5
+  },
+  {
+    "peptide_name": "SS-31",
+    "size_mg": 50.0,
+    "category": "peptide",
+    "wholesale_price": 39.0
+  },
+  {
+    "peptide_name": "Glutathione",
+    "size_mg": 1500.0,
+    "category": "peptide",
+    "wholesale_price": 24.0
+  },
+  {
+    "peptide_name": "GHK-Cu",
+    "size_mg": 50.0,
+    "category": "peptide",
+    "wholesale_price": 14.0
+  },
+  {
+    "peptide_name": "GHK-Cu",
+    "size_mg": 100.0,
+    "category": "peptide",
+    "wholesale_price": 20.0
+  },
+  {
+    "peptide_name": "ARA-290",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 22.0
+  },
+  {
+    "peptide_name": "Humanin",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 32.0
+  },
+  {
+    "peptide_name": "Kisspeptin",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 22.5
+  },
+  {
+    "peptide_name": "PT-141",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 20.0
+  },
+  {
+    "peptide_name": "Melanotan 2",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 18.0
+  },
+  {
+    "peptide_name": "VIP",
+    "size_mg": 10.0,
+    "category": "peptide",
+    "wholesale_price": 30.0
+  },
+  {
+    "peptide_name": "Cartalax",
+    "size_mg": 20.0,
+    "category": "peptide",
+    "wholesale_price": 22.0
+  },
+  {
+    "peptide_name": "Cortagen",
+    "size_mg": 20.0,
+    "category": "peptide",
+    "wholesale_price": 24.0
+  },
+  {
+    "peptide_name": "Prostamax",
+    "size_mg": 20.0,
+    "category": "peptide",
+    "wholesale_price": 18.0
+  },
+  {
+    "peptide_name": "Bacteriostatic Water",
+    "size_mg": null,
+    "category": "ancillary",
+    "wholesale_price": 6.0
+  }
+]
